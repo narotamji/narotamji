@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narotamji
+- 👋 Hi, I’m Narotam Singh
 - 👀 I love to code and play my Indian Classical Instrument (Dilruba)
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on various javaScript , react.js projects
